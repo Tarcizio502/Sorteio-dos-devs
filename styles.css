@@ -16,19 +16,19 @@ body {
 h1 {
   color: antiquewhite;
   font-family: sans-serif;
-  font-size: xx-large;
+  font-size: 46px;
   font-weight: 900;
 }
 
 p {
   font-family: sans-serif;
-  font-size: xx-large;
+  font-size: 36px;
   font-weight: 800;
   color: lime;
 }
 
 input {
-  margin: 10px;
+  margin: 6px;
   border-radius: 10px;
   border: none;
   padding: 4px;
@@ -38,9 +38,10 @@ input {
 }
 
 button {
-  font-size: x-large;
+  font-size: 36px;
   font-family: sans-serif;
-  font-weight: 600;
+  font-weight: bold;
+  margin: 24px;
   background-color: #efca00;
   border: none;
   cursor: pointer;
@@ -49,13 +50,13 @@ button {
 
 h2 {
   font-family: sans-serif;
-  font-size: xx-large;
+  font-size: 37px;
   font-weight: 900;
 }
 
 img {
   position: static;
-  margin-top: -445px;
+  margin-top: -562px;
   width: 100vw;
   height: 100vh;
 }
